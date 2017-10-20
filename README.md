@@ -22,3 +22,12 @@ Automation and artificial intelligence (if we make it that far) will decouple hu
 The question remaining is ***"How do we quantify human value?"***
 
 The question *"How do we quantify human value?"* is the underlying motif, woven across the DAOYou.Me philosophy, infrastructure and culture. It's perhaps the single most important question for the 21st Century.
+
+
+## Economic/Social - Principals
+
+The underlying economic/social principals of DAOYou.Me is rooted in renewable natural resources.
+
+## Blockchain/Cultural - Mechanisms
+The infrastructure mechanisms will be facilitated equally between blockchain smart contracts and shared cultural practices.
+
