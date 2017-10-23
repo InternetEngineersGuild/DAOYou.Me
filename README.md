@@ -31,3 +31,13 @@ The underlying economic/social principals of DAOYou.Me is rooted in renewable na
 ## Blockchain/Cultural - Mechanisms
 The infrastructure mechanisms will be facilitated equally between blockchain smart contracts and shared cultural practices.
 
+# The Simple Breakdown
+The DAOYou.Me is a "fork" of the original Ethereum DAO concept.
+
+However, what makes this "fork" unique, is the steadfast focus towards introducing shared social/cultural standards into the core autonomous, organizing mechanisms. To specify, most "forking" happens with a codebase. Yes, the DAOYou will fork existing code infraustructure (voting mechanisms, ownership, payments, etc...). However, the primary, arguably more important focus, for the long-term viabaility of distributed autonomous organization, will be enforcing the social/cultural mechanisms, which facilitate a thriving DAO.
+
+Simply put, technology is great, in fact neccesary, but at the end of the day... what matters... is the people.
+
+
+
+
